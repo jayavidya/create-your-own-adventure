@@ -87,10 +87,12 @@ Pointing it at the door, eyes closed, "Alohomora..."
 Nothing seems to be happening.
 
 Sheepishly you look down on the crappy wand in your hand.
- 
+  
 You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
+
+So again pointing the wand at the door, and eyes closed, "Alohomora..."
 
 Do you:
 
